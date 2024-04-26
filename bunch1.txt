@@ -1,2 +1,1 @@
-random text
-Added new test here
+Added second new text here
